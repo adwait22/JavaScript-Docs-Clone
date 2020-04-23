@@ -71,6 +71,27 @@ body {
     font-size: 20px;
 }
 
+footer {
+    padding-left: 300px;
+    background-color: #323330;
+    height: 80px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+footer > p {
+    margin-top: 0;
+    text-align: center;
+    color: white;
+    
+}
+footer > p > a {
+    color: Yellow;
+}
+
+footer > p > span> a {
+    color: red;
+}
+
 /* --------------DOCUMENTATION-------------- */
 
 #main-doc {
